@@ -1,1 +1,0 @@
-# ict_wp_club
