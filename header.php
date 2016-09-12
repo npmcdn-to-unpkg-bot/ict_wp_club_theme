@@ -27,7 +27,7 @@ Template Name: テーマのヘッダー
 		<script src="<?php bloginfo('template_directory'); ?>/scroll/jquery.slimscroll.min.js"></script>
 		<script src="<?php bloginfo('template_directory'); ?>/autoexpand/jquery.autoexpand.js"></script>
 */ ?>
-		<script src="https://npmcdn.com/flickity@1.1/dist/flickity.pkgd.min.js"></script>
+		<script src="https://unpkg.com/flickity@1.1/dist/flickity.pkgd.min.js"></script>
 		<?php wp_head(); ?>
 	</head>
 	<body>
